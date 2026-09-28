@@ -7,6 +7,7 @@ I build Shopify themes, custom cart experiences and apps — and I know how to m
 ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 ![Liquid](https://img.shields.io/badge/-Liquid-000000?style=flat-square&logo=shopify&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -18,15 +19,15 @@ I build Shopify themes, custom cart experiences and apps — and I know how to m
 
 ## 🚀 Current Projects
 
-- 🎮 **[Project Human](https://github.com/gopikishan-dev/Project-Human)** - A habit tracker that works like an RPG: earn XP, level up and grow 5 life stats from real habits · [Live app](https://project-human.netlify.app) · Web + Android
-- 🎯 **[Job Sniper](https://github.com/gopikishan-dev/job-sniper-extension)** - Chrome extension for LinkedIn Jobs: see jobs posted in the last few minutes, auto-refresh search, hide Promoted & Viewed jobs
-- 🏷️ **[PrintReady Labels](https://github.com/gopikishan-dev/PrintReady-Labels)** - Crop Amazon, Flipkart & Meesho shipping labels to 4x6 in one click, ready for thermal printers
+- 🎮 **[Project Human](https://project-human.netlify.app)** - A habit tracker that works like an RPG: earn XP, level up and grow 5 life stats from real habits · Web + Android
+- 🎯 **[Job Sniper](https://chromewebstore.google.com/detail/job-sniper/ncjjafmodgfhmbpalmoancigcfbbldef)** - Chrome extension for LinkedIn Jobs: see jobs posted in the last few minutes, auto-refresh search, hide Promoted & Viewed jobs
+- 🏷️ **[PrintReady Labels](https://labeltools.duckdns.org/)** - Crop Amazon, Flipkart & Meesho shipping labels to 4x6 in one click, ready for thermal printers
 - 🧩 **Pupa: Theme Sections** - Shopify app with ready-to-use sections and app blocks for Dawn & Horizon themes *(launching soon)*
 
 ## 🛠️ What I Do
 
 - **Shopify Development** - Custom themes, sections, cart UI and checkout integrations
-- **App Building** - Web apps, PWAs, Android apps and Chrome extensions, built with AI-assisted development
+- **App Building** - React web apps, PWAs, Android apps and Chrome extensions, built with AI-assisted development
 - **Performance Marketing** - Meta & Google Ads, creative strategy, SEO for D2C brands
 - **Conversion-first design** - Code that's built to sell, not just to look good
 
