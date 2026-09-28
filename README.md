@@ -31,10 +31,6 @@ I build Shopify themes, custom cart experiences and apps — and I know how to m
 - **Performance Marketing** - Meta & Google Ads, creative strategy, SEO for D2C brands
 - **Conversion-first design** - Code that's built to sell, not just to look good
 
-## 📊 GitHub Activity
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gopikishan-dev&hide_border=true&theme=github-compact)
-
 ## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Gopi_Kishan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopikisan/)
