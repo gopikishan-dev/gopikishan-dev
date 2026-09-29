@@ -7,7 +7,7 @@ Whenever I run into a problem, I try to build a small tool that solves it. Most 
 were born on late nights and holidays.
 
 I'm not a full-time developer and not a Shopify expert, just someone who enjoys turning everyday
-annoyances into working tools, with a lot of help from AI.
+annoyances into working tools.
 
 ---
 
@@ -16,9 +16,7 @@ annoyances into working tools, with a lot of help from AI.
 - 🎯 **[Job Sniper](https://chromewebstore.google.com/detail/job-sniper/ncjjafmodgfhmbpalmoancigcfbbldef)** - Chrome extension for LinkedIn Jobs: see jobs posted in the last few minutes, auto-refresh search, hide Promoted & Viewed jobs. ✅ *Live on the Chrome Web Store*
 - 🎮 **[Project Human](https://project-human.netlify.app)** - A habit tracker that works like an RPG: earn XP, level up and grow 5 life stats from real habits · Web + Android
 - 🏷️ **[PrintReady Labels](https://labeltools.duckdns.org/)** - Crop Amazon, Flipkart & Meesho shipping labels to 4x6 in one click, ready for thermal printers
-- 🧩 **Pupa: Theme Sections** - A Shopify app (built with Shopify CLI) with ready-to-use sections and app blocks for Dawn & Horizon themes *(launching soon)*
-- 🌐 **WordPress Website** - Built and set up a WordPress site from the command line
-
+- 🧩 **Pupa: Theme Sections** - A Shopify app (built with Shopify CLI) with ready-to-use sections and app blocks *(launching soon)*
 ---
 
 ## 💼 By Day: Digital Marketing
