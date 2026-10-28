@@ -16,7 +16,7 @@ annoyances into working tools.
 - 🎯 **[Job Sniper](https://chromewebstore.google.com/detail/job-sniper/ncjjafmodgfhmbpalmoancigcfbbldef)** - Chrome extension for LinkedIn Jobs: see jobs posted in the last few minutes, auto-refresh search, hide Promoted & Viewed jobs. ✅ *Live on the Chrome Web Store*
 - 🎮 **[Project Human](https://project-human.netlify.app)** - A habit tracker that works like an RPG: earn XP, level up and grow 5 life stats from real habits · Web + Android
 - 🏷️ **[PrintReady Labels](https://labeltools.duckdns.org/)** - Crop Amazon, Flipkart & Meesho shipping labels to 4x6 in one click, ready for thermal printers
-- 🧩 **Pupa: Theme Sections** - A Shopify app (built with Shopify CLI) with ready-to-use sections and app blocks *(launching soon)*
+- 🧩 **[Pupa: Theme Sections](https://apps.shopify.com/pupa-theme-sections)** - A Shopify app (built with Shopify CLI) with ready-to-use sections and app blocks 
 ---
 
 ## 💼 By Day: Digital Marketing
